@@ -1,0 +1,58 @@
+{
+  "transferencias": [
+    {
+      "id": "1",
+      "valor": 35,
+      "destino": "1212-1",
+      "data": "2020-11-04T16:30:10.710Z"
+    },
+    {
+      "id": "2",
+      "valor": 40,
+      "destino": "1213-1",
+      "data": "2020-11-04T21:24:10.710Z"
+    },
+    {
+      "id": "3",
+      "valor": 12.5,
+      "destino": "1214-1",
+      "data": "2020-11-05T21:14:10.710Z"
+    },
+    {
+      "valor": 123,
+      "destino": null,
+      "data": "2022-06-21T23:55:08.497Z",
+      "id": "7YlppSL"
+    },
+    {
+      "valor": 34,
+      "destino": null,
+      "data": "2022-06-21T23:55:21.959Z",
+      "id": "GJgZkoW"
+    },
+    {
+      "valor": 123,
+      "destino": null,
+      "data": "2022-06-22T00:01:01.047Z",
+      "id": "qzegNPu"
+    },
+    {
+      "valor": 234,
+      "destino": 2314,
+      "data": "2022-06-22T00:02:41.087Z",
+      "id": "2X5CkmI"
+    },
+    {
+      "valor": 979,
+      "destino": "13151-4",
+      "data": "2022-06-22T00:03:20.274Z",
+      "id": "KMU2nFN"
+    },
+    {
+      "valor": 123,
+      "destino": 456,
+      "data": "2022-06-22T15:20:37.624Z",
+      "id": "_vX5VJd"
+    }
+  ]
+}
